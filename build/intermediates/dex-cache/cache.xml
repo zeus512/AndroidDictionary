@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/AndroidDictionaryApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b583a10d68cd2681d99ac982c720cfb3b8bdcf47">
+        <dex dex="/root/StudioProjects/AndroidDictionaryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2bf1132491f4cf389068f0cdd5bd4ede40ec212e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/AndroidDictionaryApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/StudioProjects/AndroidDictionaryApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_118c8d952629368b6d2e8b89cf39b254db2f36d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/root/StudioProjects/AndroidDictionaryApplication/app/build/intermediates/pre-dexed/debug/sqliteassethelper-2.0.1_e1ad08b8e2dd7dea6a996415cadc7763270d876c.jar" />
+    </item>
+
+</items>
